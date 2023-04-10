@@ -6,7 +6,7 @@ African Leopard
 Albatross
 Alligator
 Alpaca
-American Buffalo (Bison)
+American Buffalo
 American Robin
 Amphibian
 Anaconda
@@ -24,7 +24,6 @@ Arctic Wolf
 Armadillo
 Arrow Crab
 Asp
-Ass (Donkey)
 Baboon
 Badger
 Bald Eagle
@@ -46,9 +45,9 @@ Bison
 Black Panther
 Black Widow Spider
 Blackbird
+Blue Whale
 Bluebird
 Bluejay
-Blue Whale
 Boa
 Boar
 Bobcat
@@ -58,7 +57,6 @@ Booby
 Bovid
 Box Jellyfish
 Buffalo
-Bison
 Bug
 Butterfly
 Buzzard
@@ -81,7 +79,6 @@ Chameleon
 Cheetah
 Chickadee
 Chicken
-Chicken Breeds
 Chimpanzee
 Chinchilla
 Chipmunk
@@ -91,8 +88,6 @@ Clownfish
 Cobra
 Cockroach
 Cod
-Common Household Pests
-Common Names Of Poisonous Animals
 Condor
 Constrictor
 Coral
@@ -134,7 +129,6 @@ Dove
 Dragon
 Dragonfly
 Duck
-Duck Breeds
 Dung Beetle
 Eagle
 Earthworm
@@ -151,7 +145,6 @@ Ermine
 Falcon
 Fancy Mouse
 Fancy Rat
-Fancy Rat Varieties
 Felidae
 Ferret
 Finch
@@ -179,7 +172,6 @@ Giraffe
 Goat
 Goldfish
 Goose
-Goose Breeds
 Gopher
 Gorilla
 Grasshopper
@@ -315,7 +307,6 @@ Peregrine Falcon
 Pheasant
 Pig
 Pigeon
-Pigeon Breeds
 Pike
 Pilot Whale
 Pinniped
@@ -345,6 +336,7 @@ Rainbow Trout
 Rat
 Rattlesnake
 Raven
+Ray
 Ray (Batoidea)
 Ray (Rajiformes)
 Red Panda
@@ -372,7 +364,6 @@ Sea Snail
 Seahorse
 Shark
 Sheep
-Sheep Breeds
 Shrew
 Shrimp
 Siamese Fighting Fish
@@ -431,7 +422,6 @@ Tree Frog
 Trout
 Tuna
 Turkey
-Turkey Breeds
 Turtle
 Tyrannosaurus
 Urial
@@ -447,7 +437,6 @@ Warbler
 Wasp
 Water Boa
 Water Buffalo
-Water Buffalo Breeds
 Weasel
 Whale
 Whippet
