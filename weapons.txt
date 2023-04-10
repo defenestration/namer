@@ -105,6 +105,7 @@ Rough Staff
 Round Stone
 Sabre
 Sacrificial Knife
+Sceptre
 Scimitar
 Scourge
 Serrated Scimitar
