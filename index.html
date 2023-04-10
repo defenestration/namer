@@ -1,5 +1,6 @@
 <html>
   <head>
+    <title>Namer</title>
     <script type="text/javascript" src="namer.js"></script>
     <style>
     body {
@@ -23,7 +24,8 @@
     <p>
     <button onclick="go()" class=button>try again</button> 
     <br>
-    <button onclick="toggle_weapons()" class=button>toggle weapons</button> <span id="weapon_status"></span>
+    <input type="checkbox" id="weapons_cb" name="weapons_cb" value="yes" onclick="toggle_weapons()">  
+    <label for="weapons_cb"> Weapons </label>
     </p>
   </div>
   <p></p>

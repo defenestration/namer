@@ -1,8 +1,3 @@
-function showText(text) {
-  document.getElementById("content").innerHTML = text;
-  document.getElementById("weapon_status").innerHTML = show_weapons;
-}
-
 async function getList(list){
   let data = await fetch(list);
   data = (await data.text()).split('\n');
@@ -15,10 +10,15 @@ var weapons = getList("https://raw.githubusercontent.com/defenestration/namer/ma
 var vehicles = getList("https://raw.githubusercontent.com/defenestration/namer/main/vehicles.txt");
 var show_weapons = true;
 
+function showText(text) {
+  document.getElementById("content").innerHTML = text;
+  document.getElementById("weapons_cb").checked = show_weapons;
+}
+
 function toggle_weapons(){
   show_weapons = !show_weapons;
   console.log("toggle_weapons: " + show_weapons);
-  document.getElementById("weapon_status").innerHTML = show_weapons;
+  document.getElementById("weapons_cb").checked = show_weapons;
 }
 
 async function go() {
