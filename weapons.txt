@@ -1,147 +1,163 @@
-Arrow 
-Ash Arrow 
-Axe Of Durin 
-Backsword 
-Barbed Fang 
-Bastard Sword 
-Battle Axe 
-Beorning Sword 
-Black Horn Shortbow 
-Black Many-Tailed Whip 
-Black Metal Staff 
-Black Runed Dagger 
-Black Runed Sceptre 
-Black Waraxe 
-Blackened Bolt 
-Blackened Dwarven Axe 
-Blackened Spear 
-Bolt 
-Broad Scimitar 
-Broad Spear 
-Broad-Bladed Knife 
-Broadsword 
-Brown Thorn 
-Brutal Cleaver 
-Butcher Knife 
-Butcher's Cleaver 
-Carved Oak Staff 
-Ceremonial Dagger 
+Arrow
+Ash Arrow
+Axe
+Axe Of Durin
+Backsword
+Barbed Fang
+Bastard Sword
+Battle Axe
+Beorning Sword
+Black Horn Shortbow
+Black Many-Tailed Whip
+Black Metal Staff
+Black Runed Dagger
+Black Runed Sceptre
+Black Waraxe
+Blackened Bolt
+Blackened Dwarven Axe
+Blackened Spear
+Blade
+Bolt
+Bow
+Brick
+Broad Scimitar
+Broad Spear
+Broad-Bladed Knife
+Broadsword
+Brown Thorn
+Brutal Cleaver
+Butcher Knife
+Butcher's Cleaver
+Carved Oak Staff
+Ceremonial Dagger
 Claw
-Crossbow 
+Claymore
+Club
+Crossbow
 Crowbar
-Cruelly-Spiked Mace 
-Cudgel 
+Cruelly-Spiked Mace
+Cudgel
 Cutlass
-Dagger 
-Dark Broadsword 
-Dark Curved Sword 
-Darkened Orkish Axe 
-Dirk 
-Double Edged Eket 
+Dagger
+Dark Broadsword
+Dark Curved Sword
+Darkened Orkish Axe
+Dirk
+Double Edged Eket
 Double-Headed Axe
-Dunadan Blade 
-Elven Dagger 
-Elven Hunting Spear 
-Elven Longbow 
-Elven Shortbow 
-Embellished Longbow 
-Engraved Broadsword 
-Engraved Silvery Knife 
-Engraved Warhammer 
-Falchion 
-Fell Blade 
-Flail 
-Fletched Arrow 
-Gem-Inlaid Knife 
-Giant Spear 
-Gnarled Wooden Club 
-Great Warsword 
-Halberd 
-Hammer 
-Hammer Of Belegost 
-Handaxe 
-Hatchet 
-Heavy Morningstar 
-Heavy Warhammer 
-Horn 
-Huge Spiked Club 
-Huge, Black Mace 
-Huge, Flaming Sword 
-Hunting Knife 
-Iron-Shod Mace 
-Istari Wand 
-Jagged-Edged Scimitar 
-Lance 
-Longbow 
-Longspear 
-Longsword 
-Mace 
-Maul 
-Metal Staff 
-Mighty Dwarven Axe 
-Morningstar 
-Orcish Battle-Standard 
-Orcish Fang 
-Orcish Shortbow 
-Ornate Warhammer 
-Pick 
-Pike 
-Pitchfork 
-Poleaxe 
+Dunadan Blade
+Elven Dagger
+Elven Hunting Spear
+Elven Longbow
+Elven Shortbow
+Embellished Longbow
+Engraved Broadsword
+Engraved Silvery Knife
+Engraved Warhammer
+Falchion
+Fell Blade
+Flail
+Fletched Arrow
+Foil
+Gem-Inlaid Knife
+Giant Spear
+Gnarled Wooden Club
+Great Warsword
+Halberd
+Hammer
+Hammer Of Belegost
+Handaxe
+Hatchet
+Heavy Morningstar
+Heavy Warhammer
+Horn
+Huge Spiked Club
+Huge, Black Mace
+Huge, Flaming Sword
+Hunting Knife
+Iron-Shod Mace
+Istari Wand
+Jagged-Edged Scimitar
+Knife
+Lance
+Longbow
+Longspear
+Longsword
+Mace
+Maul
+Metal Staff
+Mighty Dwarven Axe
+Morningstar
+Orcish Battle-Standard
+Orcish Fang
+Orcish Shortbow
+Ornate Warhammer
+Pick
+Pike
+Pitchfork
+Poleaxe
 Pry-Bar
-Quarrel Bolt 
-Quarterstaff 
-Rapier 
-Rough Staff 
-Round Stone 
-Sabre 
-Sacrificial Knife 
-Scimitar 
-Scourge 
-Serrated Scimitar 
+Quarrel Bolt
+Quarterstaff
+Rapier
+Rock
+Rough Staff
+Round Stone
+Sabre
+Sacrificial Knife
+Scimitar
+Scourge
+Serrated Scimitar
 Sharp Talon
-Sharp Thorn 
-Shiny Dagger 
-Short Spear 
-Shortbow 
-Shortsword 
-Shovel 
-Sickle 
-Silver-Tipped Arrow 
-Slender Dagger 
-Sling 
-Slingstone 
-Small Spade 
-Spider's Fang 
-Spiked War Club 
-Steel Claymore 
-Steel-Shafted Mattock 
-Steel-Shafted Spear 
-Steel-Tipped Lance 
-Steel-Tipped Spear 
-Stiletto 
-Stone Club 
-The Black Sword 
-The Broad Elven Blade 
-The Elven Shortsword 
-The Fine Silvery Morningstar 
-The Gleaming Broadsword 
-The Great Black Scimitar 
-The Morgul Blade 
-The Silvery Broadsword 
-The Slender Elven Sword 
-Twisted Spear 
-Two-Handed Axe 
-Two-Handed Sword 
-Very Heavy Branch 
-Very Large Knotted Branch 
-Very Large Wooden Club 
-War Arrow 
-War Mattock 
-Warhammer 
-Whip 
-Wicked Knife 
-Wightblade 
-Wooden Club 
-Woodsman Axe 
-Yew Longbow 
+Sharp Thorn
+Shiny Dagger
+Short Spear
+Shortbow
+Shortsword
+Shovel
+Sickle
+Silver-Tipped Arrow
+Slender Dagger
+Sling
+Slingshot
+Slingstone
+Small Spade
+Spear
+Spider's Fang
+Spiked War Club
+Steel Claymore
+Steel-Shafted Mattock
+Steel-Shafted Spear
+Steel-Tipped Lance
+Steel-Tipped Spear
+Stick
+Stiletto
+Stone Club
+Sword
+The Black Sword
+The Broad Elven Blade
+The Elven Shortsword
+The Fine Silvery Morningstar
+The Gleaming Broadsword
+The Great Black Scimitar
+The Morgul Blade
+The Silvery Broadsword
+The Slender Elven Sword
+Trebuchet
+Trident
+Twisted Spear
+Two-Handed Axe
+Two-Handed Sword
+Very Heavy Branch
+Very Large Knotted Branch
+Very Large Wooden Club
+War Arrow
+War Mattock
+Warhammer
+Whip
+Wicked Knife
+Wightblade
+Wooden Club
+Woodsman Axe
+Yew Longbow
+Yo-Yo
