@@ -1,5 +1,5 @@
 function showText(text) {
-  document.getElementById("body").innerHTML = text;
+  document.getElementById("content").innerHTML = text;
 }
 
 async function go() {
