@@ -5,16 +5,21 @@ Airship
 Balloon
 Bicycle
 Boat
+Bobsled
 Bus
 Cannon
 Canoe
 Car
+Carriage
+Chariot
 Conveyor Belt
 Dinghy
 Dirigable
 Elevator
 Escalator
+Glider
 Helicopter
+Horse
 Hoverboard
 Hovercraft
 Inner Tube
@@ -23,20 +28,26 @@ Jet Skates
 Jetpack
 Kayak
 Liferaft
+Locomotive
 Moped
 Motorcycle
 Raft
+Railway
+Rocket Car
 Rollerblades
 Rollerskates
 Schooner
 Scooter
+Sedan
 Ship
 Skateboard
 Skates
+Ski
 Snowmobile
 Spacecraft
 Spaceship
 Speedboat
+Stagecoach
 Submarine
 Subway
 Train
@@ -44,6 +55,7 @@ Tram
 Trampoline
 Tricycle
 Truck
+Unicycle
 Velocipede
 Wagon
 Wheelbarrow
