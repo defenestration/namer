@@ -5,10 +5,12 @@ async function getList(list){
 }
 
 //globals
-var animals = getList("https://raw.githubusercontent.com/defenestration/namer/main/animals.txt");
-var weapons = getList("https://raw.githubusercontent.com/defenestration/namer/main/weapons.txt");
-var vehicles = getList("https://raw.githubusercontent.com/defenestration/namer/main/vehicles.txt");
+var g_animals = getList("https://raw.githubusercontent.com/defenestration/namer/main/animals.txt");
+var g_weapons = getList("https://raw.githubusercontent.com/defenestration/namer/main/weapons.txt");
+var g_vehicles = getList("https://raw.githubusercontent.com/defenestration/namer/main/vehicles.txt");
 var show_weapons = true;
+var order = "animal"; 
+
 
 function showText(text) {
   document.getElementById("content").innerHTML = text;
@@ -21,19 +23,51 @@ function toggle_weapons(){
   document.getElementById("weapons_cb").checked = show_weapons;
 }
 
-async function go() {
-  //await the globals
-  let left = await animals;
-  let ve = await vehicles;
-  let we = await weapons;
-  let right = ve.concat( we );
-  if ( !show_weapons ){
-    right = ve;
-  }
-  str = left[Math.floor(Math.random() * left.length)]
-    + " "
-    + right[Math.floor(Math.random() * right.length)];
+function get_order(){
+  return document.getElementById("order_dropdown").value; 
+}
 
+function getRand(things) {
+  return things[Math.floor(Math.random() * things.length)];
+}
+
+async function go() {
+//await the globals
+  let animals = await g_animals;
+  let vehicles = await g_vehicles;
+  let weapons = await g_weapons;
+  let order =  get_order();
+  let transports = vehicles.concat( weapons );
+  // only vehicles if toggle is set.
+  console.log("show weapons:" + show_weapons);
+  if ( !show_weapons ){
+    transports = vehicles;
+  }
+  let animal = await getRand(animals);
+  let transport = await getRand(transports);
+
+  // define order
+  console.log("order: " + order);
+  switch(order) {
+  case "animal":
+    // code block
+    sequence = [ animal, transport ];
+    break;
+  case "transport":
+    // code block
+    sequence = [ transport, animal ];
+    break;
+  default:
+   //random
+   let swapSides = Math.random() < 0.5
+   console.log("swapsides: " + swapSides);
+   if ( swapSides ) {
+     sequence = [ animal, transport ];
+   } else {
+    sequence = [ transport, animal];
+   }
+}
+  str = sequence.join(" "); 
   console.log(str);
   showText(str);
 }
