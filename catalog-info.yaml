@@ -5,6 +5,10 @@ metadata:
   annotations:
     github.com/project-slug: defenestration/namer
     backstage.io/techdocs-ref: dir:.
+  links:
+    - url: https://defenestration.github.io/namer/
+      title: Namer
+      icon: dashboard
 spec:
   type: other
   lifecycle: unknown
