@@ -4,6 +4,7 @@ metadata:
   name: namer
   annotations:
     github.com/project-slug: defenestration/namer
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
