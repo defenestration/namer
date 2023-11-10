@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: namer
+  annotations:
+    github.com/project-slug: defenestration/namer
+spec:
+  type: other
+  lifecycle: unknown
+  owner: defenestration
