@@ -12,4 +12,5 @@ metadata:
 spec:
   type: other
   lifecycle: unknown
-  owner: user:defenestration
+  owner: user:default/defenestration
+
